@@ -1,0 +1,7 @@
+This document describes how to install/setup all the platforms used in this project.
+
+1. To install and setup Kafka follow the instructions at: https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04
+2. To setup Kinesis follow the instructions at: https://docs.aws.amazon.com/streams/latest/dev/before-you-begin.html
+3. To setup the Lambda functions used by Kinesis follow the instructions at: https://docs.aws.amazon.com/toolkit-for-eclipse/v1/user-guide/lambda-tutorial.html and upload the sql_lambda and kin_lambda directories as Python 2.7 deployment packages.
+4. To setup DynamoDB follow the instructions at: https://aws.amazon.com/documentation/dynamodb/
+5. To install and setup MySQL follow the instructions at: https://stackoverflow.com/questions/25865270/how-to-install-python-mysqldb-module-using-pip

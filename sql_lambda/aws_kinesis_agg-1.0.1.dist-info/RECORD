@@ -1,0 +1,15 @@
+aws_kinesis_agg/__init__.py,sha256=SH8SBnuheXukeuXTU81CbRTHuFel_cB1aLiB4tRVJOw,970
+aws_kinesis_agg/aggregator.py,sha256=pSasjjhqgB_xAJ5of3lm6EmDUYPxOfHv__qwdMiKUY4,18043
+aws_kinesis_agg/deaggregator.py,sha256=6HCgt0kdmAT5NB-VUOmX7UQmZbkfY7FJHqAkYTtUXBI,8002
+aws_kinesis_agg/kpl_pb2.py,sha256=Z_epbgJ2c1nlJhcyqBOvyXEeFuqfvv-6uIR_0g7Fhks,7038
+aws_kinesis_agg-1.0.1.dist-info/DESCRIPTION.rst,sha256=QTLRsNMG_PxKqMlngu2ibsGIfbChty2BHaQHf6AUyDM,53
+aws_kinesis_agg-1.0.1.dist-info/METADATA,sha256=M_lh5MDRZqS_OYY92RifhARk-qjh39GXldFrWKYZinY,417
+aws_kinesis_agg-1.0.1.dist-info/RECORD,,
+aws_kinesis_agg-1.0.1.dist-info/WHEEL,sha256=BtVfdXUcEYLcFjOkbIrCFRyXU4qszVPt-E9o3RWkSNw,93
+aws_kinesis_agg-1.0.1.dist-info/metadata.json,sha256=0-iJ-pued9QAsxp69E3g8PVCHWp7tbxHAC71yx18l4Q,604
+aws_kinesis_agg-1.0.1.dist-info/top_level.txt,sha256=3HyVxnGNRBpT7iVa-2J8VGm0rvs1BThke1BSRCeMFM0,16
+aws_kinesis_agg-1.0.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+aws_kinesis_agg/aggregator.pyc,,
+aws_kinesis_agg/deaggregator.pyc,,
+aws_kinesis_agg/kpl_pb2.pyc,,
+aws_kinesis_agg/__init__.pyc,,
